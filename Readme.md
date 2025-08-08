@@ -3,7 +3,7 @@
 <tr>
 <td>
 
-### Hi there 👋 I'm [Swaraj!](https://github.com/SnakeyEye497)
+### Hi there 👋 I'm [Swaraj!](https://github.com/Dex-Swaraj)
 
 ## I'm a Third Year Student At VIIT, Pune
 
@@ -49,5 +49,7 @@
 ![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat&logo=devops)
 
 ---
-
+This GitHub profile contains my academic assignments, micro-projects, and code developed during coursework.
+- Includes work across VB.NET, Python, C++, Machine Learning , Deep Learning , Computer Networking , and other tech explorations.
+- A personal archive of learning, practice, and technical growth.
 Last edited on: 08/08/2025
