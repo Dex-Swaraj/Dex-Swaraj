@@ -32,7 +32,8 @@
 ![VB.NET](https://img.shields.io/badge/-VB.NET-000000?style=flat&logo=dotnet)
 ![Assembly x86](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=gnuemacs)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
