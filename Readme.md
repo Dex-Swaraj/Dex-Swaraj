@@ -50,6 +50,6 @@
 
 ---
 This GitHub profile contains my academic assignments, micro-projects, and code developed during coursework.
-- Includes work across VB.NET, Python, C++, Machine Learning , Deep Learning , Computer Networking , and other tech explorations.
+- Includes work across VB.NET, Python, C++, Machine Learning , Deep Learning , Computer Networking , Data Structures, and other tech explorations.
 - A personal archive of learning, practice, and technical growth.
-Last edited on: 08/08/2025
+
