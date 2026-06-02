@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I'm [Swaraj!](https://github.com/Dex-Swaraj)
 
-## I'm a Third Year Student At VIIT, Pune
+## I'm a Student At VIIT, Pune
 
 - Actively building real-world **Cloud, DevOps**, and **Machine Learning** projects.
 - Exploring AWS, GCP, Terraform, and CI/CD pipelines through event-driven & microservices architectures.
